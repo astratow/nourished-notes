@@ -1,12 +1,14 @@
 # nourished-notes
 
-[code]$ git checkout development [/code]
+## git sequence
 
-git pull
+`$ git checkout development
 
-git checkout -b <test-branch-name>
+`$ git pull
 
-git merge <your branch> 
+`$ git checkout -b <test-branch-name>
+
+`$ git merge <your branch> 
 
  
 
