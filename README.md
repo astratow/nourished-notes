@@ -27,3 +27,21 @@ watch
 $ npm run mainStyle:watch
 $ theme watch
 ```
+## CSS sequence rules
+
+```
+position 
+display
+(all display related items ie, flex-direction..)
+width
+height
+padding
+margin
+font-size
+family
+color
+border
+border radius etc
+opacity 
+I strictly have opacity and z-index at the very bottom,
+```
